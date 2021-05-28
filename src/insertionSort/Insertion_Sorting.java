@@ -1,8 +1,8 @@
-package insretionSort;
+package insertionSort;
 
 import java.util.Arrays;
 
-class Insertion_Sorting {
+public class Insertion_Sorting {
     public static void main(String[] args) {
         int[] arr = {12,8,16,5,2};
         System.out.println("unsorted -->" + Arrays.toString(arr));
